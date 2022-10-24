@@ -70,3 +70,5 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/marikhomeriki/code/marikhomeriki/gcp/wagon-bootcamp-365112-dd202cad4896.json
+export PYTHONPATH="/Users/marikhomeriki/code/marikhomeriki/data-context-and-setup:$PYTHONPATH"
